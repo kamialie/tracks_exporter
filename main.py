@@ -1,6 +1,9 @@
+#!/usr/bin/env python3
+
 import requests
 import json
 import csv
+import argparse
 
 from datetime import datetime
 
@@ -27,7 +30,7 @@ class PlaylistsHandler:
 
     def _parse_input(self, input_file):
         input_data = {}
-        # TODO add exception handler
+        # TODO add exception handler for missing or wrong file
         with open(input_file) as fh:
             json_data = json.load(fh)
 
@@ -94,5 +97,12 @@ class PlaylistsHandler:
             dw.writeheader()
             dw.writerows(self.tracks)
 
-handler = PlaylistsHandler("input.json")
-handler.export_to_file()
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Track friendly track exporter :)')
+    parser.add_argument('--input-file', help='path to file with links',
+            required=True)
+
+    args = parser.parse_args()
+
+    handler = PlaylistsHandler(args.input_file)
+    handler.export_to_file()
