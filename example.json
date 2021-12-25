@@ -1,0 +1,708 @@
+{
+  "playlist": {
+    "revision": 10,
+    "kind": 1010,
+    "title": "Pure guitar",
+    "description": "",
+    "descriptionFormatted": "",
+    "trackCount": 7,
+    "visibility": "public",
+    "cover": {
+      "type": "mosaic",
+      "itemsUri": [
+        "avatars.yandex.net/get-music-content/32236/f08982c7.a.862783-1/%%",
+        "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+        "avatars.yandex.net/get-music-content/63210/5aacae19.a.1301289-1/%%",
+        "avatars.yandex.net/get-music-content/103235/5932c5bd.a.7987297-1/%%"
+      ],
+      "custom": false
+    },
+    "owner": {
+      "uid": 95560623,
+      "login": "tanteprix",
+      "name": "tanteprix",
+      "sex": "unknown",
+      "verified": false,
+      "avatarHash": "0/0-0"
+    },
+    "tracks": [
+      {
+        "id": "8265753",
+        "realId": "8265753",
+        "title": "Padmasana",
+        "major": {
+          "id": 108,
+          "name": "CDBABY"
+        },
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableFullWithoutPermission": false,
+        "durationMs": 699480,
+        "storageDir": "",
+        "fileSize": 0,
+        "normalization": {
+          "gain": -5.99,
+          "peak": 32766
+        },
+        "r128": {
+          "i": -12.47,
+          "tp": 0.74
+        },
+        "previewDurationMs": 30000,
+        "artists": [
+          {
+            "id": 136001,
+            "name": "Buckethead",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-album-cover",
+              "prefix": "00b0c0d7.a.7987277-1",
+              "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+            },
+            "genres": []
+          }
+        ],
+        "albums": [
+          {
+            "id": 862783,
+            "title": "Electric Tears",
+            "metaType": "music",
+            "year": 2002,
+            "releaseDate": "2002-01-01T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net/get-music-content/32236/f08982c7.a.862783-1/%%",
+            "ogImage": "avatars.yandex.net/get-music-content/32236/f08982c7.a.862783-1/%%",
+            "genre": "folk",
+            "buy": [],
+            "trackCount": 13,
+            "likesCount": 66,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+              {
+                "id": 136001,
+                "name": "Buckethead",
+                "various": false,
+                "composer": false,
+                "cover": {
+                  "type": "from-album-cover",
+                  "prefix": "00b0c0d7.a.7987277-1",
+                  "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+                },
+                "genres": []
+              }
+            ],
+            "labels": [
+              {
+                "id": 57603,
+                "name": "Metastation"
+              }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+              8265748,
+              8265749,
+              8265744
+            ],
+            "trackPosition": {
+              "volume": 1,
+              "index": 3
+            }
+          }
+        ],
+        "coverUri": "avatars.yandex.net/get-music-content/32236/f08982c7.a.862783-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/32236/f08982c7.a.862783-1/%%",
+        "lyricsAvailable": false,
+        "type": "music",
+        "rememberPosition": false,
+        "trackSharingFlag": "COVER_ONLY",
+        "prefix": ""
+      },
+      {
+        "id": "730994",
+        "realId": "730994",
+        "title": "Binge And Grab",
+        "version": "Instrumental Version",
+        "major": {
+          "id": 3,
+          "name": "SONY"
+        },
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableFullWithoutPermission": false,
+        "durationMs": 317620,
+        "storageDir": "",
+        "fileSize": 0,
+        "normalization": {
+          "gain": -5.16,
+          "peak": 31157
+        },
+        "r128": {
+          "i": -12.77,
+          "tp": -0.43
+        },
+        "previewDurationMs": 30000,
+        "artists": [
+          {
+            "id": 136001,
+            "name": "Buckethead",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-album-cover",
+              "prefix": "00b0c0d7.a.7987277-1",
+              "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+            },
+            "genres": []
+          }
+        ],
+        "albums": [
+          {
+            "id": 81125,
+            "title": "GIANT ROBOT",
+            "metaType": "music",
+            "version": "",
+            "year": 1994,
+            "releaseDate": "1994-02-07T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+            "ogImage": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+            "genre": "rock",
+            "buy": [],
+            "trackCount": 19,
+            "likesCount": 17,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+              {
+                "id": 136001,
+                "name": "Buckethead",
+                "various": false,
+                "composer": false,
+                "cover": {
+                  "type": "from-album-cover",
+                  "prefix": "00b0c0d7.a.7987277-1",
+                  "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+                },
+                "genres": []
+              }
+            ],
+            "labels": [
+              {
+                "id": 37444,
+                "name": "Sony BMG Music Entertainment"
+              }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+              730988,
+              731004,
+              730994
+            ],
+            "trackPosition": {
+              "volume": 1,
+              "index": 8
+            }
+          }
+        ],
+        "coverUri": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+        "lyricsAvailable": false,
+        "type": "music",
+        "rememberPosition": false,
+        "trackSharingFlag": "COVER_ONLY",
+        "prefix": ""
+      },
+      {
+        "id": "12009540",
+        "realId": "12009540",
+        "title": "Jordan [in the Style of Buckethead]",
+        "version": "Karaoke Version",
+        "major": {
+          "id": 87,
+          "name": "BELIEVE_DIGITAL"
+        },
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableFullWithoutPermission": false,
+        "durationMs": 198750,
+        "storageDir": "",
+        "fileSize": 0,
+        "normalization": {
+          "gain": -4.88,
+          "peak": 31210
+        },
+        "r128": {
+          "i": -11.88,
+          "tp": -0.29
+        },
+        "previewDurationMs": 30000,
+        "artists": [
+          {
+            "id": 1617768,
+            "name": "The Karaoke Universe",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-album-cover",
+              "prefix": "91c101a5.a.1819466-1",
+              "uri": "avatars.yandex.net/get-music-content/42108/91c101a5.a.1819466-1/%%"
+            },
+            "genres": []
+          }
+        ],
+        "albums": [
+          {
+            "id": 1301289,
+            "title": "Jordan [in the Style of Buckethead]",
+            "type": "single",
+            "metaType": "music",
+            "version": "Karaoke Version",
+            "year": 2013,
+            "releaseDate": "2013-06-20T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net/get-music-content/63210/5aacae19.a.1301289-1/%%",
+            "ogImage": "avatars.yandex.net/get-music-content/63210/5aacae19.a.1301289-1/%%",
+            "buy": [],
+            "trackCount": 1,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+              {
+                "id": 1617768,
+                "name": "The Karaoke Universe",
+                "various": false,
+                "composer": false,
+                "cover": {
+                  "type": "from-album-cover",
+                  "prefix": "91c101a5.a.1819466-1",
+                  "uri": "avatars.yandex.net/get-music-content/42108/91c101a5.a.1819466-1/%%"
+                },
+                "genres": []
+              }
+            ],
+            "labels": [
+              {
+                "id": 95964,
+                "name": "The Karaoke Universe"
+              }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [],
+            "trackPosition": {
+              "volume": 1,
+              "index": 1
+            }
+          }
+        ],
+        "coverUri": "avatars.yandex.net/get-music-content/63210/5aacae19.a.1301289-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/63210/5aacae19.a.1301289-1/%%",
+        "lyricsAvailable": false,
+        "type": "music",
+        "rememberPosition": false,
+        "trackSharingFlag": "COVER_ONLY",
+        "prefix": ""
+      },
+      {
+        "id": "730988",
+        "realId": "730988",
+        "title": "Welcome To Bucketheadland",
+        "major": {
+          "id": 3,
+          "name": "SONY"
+        },
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableFullWithoutPermission": false,
+        "durationMs": 222130,
+        "storageDir": "",
+        "fileSize": 0,
+        "normalization": {
+          "gain": -4.56,
+          "peak": 30679
+        },
+        "r128": {
+          "i": -13.38,
+          "tp": -0.54
+        },
+        "previewDurationMs": 30000,
+        "artists": [
+          {
+            "id": 136001,
+            "name": "Buckethead",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-album-cover",
+              "prefix": "00b0c0d7.a.7987277-1",
+              "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+            },
+            "genres": []
+          }
+        ],
+        "albums": [
+          {
+            "id": 81125,
+            "title": "GIANT ROBOT",
+            "metaType": "music",
+            "version": "",
+            "year": 1994,
+            "releaseDate": "1994-02-07T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+            "ogImage": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+            "genre": "rock",
+            "buy": [],
+            "trackCount": 19,
+            "likesCount": 17,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+              {
+                "id": 136001,
+                "name": "Buckethead",
+                "various": false,
+                "composer": false,
+                "cover": {
+                  "type": "from-album-cover",
+                  "prefix": "00b0c0d7.a.7987277-1",
+                  "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+                },
+                "genres": []
+              }
+            ],
+            "labels": [
+              {
+                "id": 37444,
+                "name": "Sony BMG Music Entertainment"
+              }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+              730988,
+              731004,
+              730994
+            ],
+            "trackPosition": {
+              "volume": 1,
+              "index": 2
+            }
+          }
+        ],
+        "coverUri": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/49707/0eeb9c0e.a.81125-1/%%",
+        "lyricsAvailable": true,
+        "type": "music",
+        "rememberPosition": false,
+        "trackSharingFlag": "COVER_ONLY",
+        "prefix": ""
+      },
+      {
+        "id": "55010400",
+        "realId": "55010400",
+        "title": "Mosaic Silk",
+        "major": {
+          "id": 131,
+          "name": "TUNECORE"
+        },
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableFullWithoutPermission": false,
+        "durationMs": 249930,
+        "storageDir": "",
+        "fileSize": 0,
+        "normalization": {
+          "gain": -7.06,
+          "peak": 32766
+        },
+        "r128": {
+          "i": -11.54,
+          "tp": 0.62
+        },
+        "previewDurationMs": 30000,
+        "artists": [
+          {
+            "id": 136001,
+            "name": "Buckethead",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-album-cover",
+              "prefix": "00b0c0d7.a.7987277-1",
+              "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+            },
+            "genres": []
+          }
+        ],
+        "albums": [
+          {
+            "id": 7987297,
+            "title": "The Squaring of the Circle",
+            "metaType": "music",
+            "year": 2017,
+            "releaseDate": "2017-08-25T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net/get-music-content/103235/5932c5bd.a.7987297-1/%%",
+            "ogImage": "avatars.yandex.net/get-music-content/103235/5932c5bd.a.7987297-1/%%",
+            "genre": "relax",
+            "buy": [],
+            "trackCount": 6,
+            "likesCount": 26,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+              {
+                "id": 136001,
+                "name": "Buckethead",
+                "various": false,
+                "composer": false,
+                "cover": {
+                  "type": "from-album-cover",
+                  "prefix": "00b0c0d7.a.7987277-1",
+                  "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+                },
+                "genres": []
+              }
+            ],
+            "labels": [
+              {
+                "id": 1672454,
+                "name": "Hatboxghost"
+              }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+              55010400,
+              55010395
+            ],
+            "trackPosition": {
+              "volume": 1,
+              "index": 5
+            }
+          }
+        ],
+        "coverUri": "avatars.yandex.net/get-music-content/103235/5932c5bd.a.7987297-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/103235/5932c5bd.a.7987297-1/%%",
+        "lyricsAvailable": false,
+        "type": "music",
+        "rememberPosition": false,
+        "trackSharingFlag": "COVER_ONLY",
+        "prefix": ""
+      },
+      {
+        "id": "64832271",
+        "realId": "64832271",
+        "title": "Fireflies",
+        "major": {
+          "id": 131,
+          "name": "TUNECORE"
+        },
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableFullWithoutPermission": false,
+        "durationMs": 269320,
+        "storageDir": "",
+        "fileSize": 0,
+        "normalization": {
+          "gain": -6.53,
+          "peak": 32766
+        },
+        "r128": {
+          "i": -11.2,
+          "tp": 0.62
+        },
+        "previewDurationMs": 30000,
+        "artists": [
+          {
+            "id": 136001,
+            "name": "Buckethead",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-album-cover",
+              "prefix": "00b0c0d7.a.7987277-1",
+              "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+            },
+            "genres": []
+          }
+        ],
+        "albums": [
+          {
+            "id": 10441976,
+            "title": "Healing Inside Outside Every Side",
+            "metaType": "music",
+            "year": 2020,
+            "releaseDate": "2020-04-04T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net/get-music-content/2433821/d4a8b469.a.10441976-1/%%",
+            "ogImage": "avatars.yandex.net/get-music-content/2433821/d4a8b469.a.10441976-1/%%",
+            "genre": "relax",
+            "buy": [],
+            "trackCount": 6,
+            "likesCount": 80,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+              {
+                "id": 136001,
+                "name": "Buckethead",
+                "various": false,
+                "composer": false,
+                "cover": {
+                  "type": "from-album-cover",
+                  "prefix": "00b0c0d7.a.7987277-1",
+                  "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+                },
+                "genres": []
+              }
+            ],
+            "labels": [
+              {
+                "id": 1672454,
+                "name": "Hatboxghost"
+              }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+              64832271,
+              64832265
+            ],
+            "trackPosition": {
+              "volume": 1,
+              "index": 4
+            }
+          }
+        ],
+        "coverUri": "avatars.yandex.net/get-music-content/2433821/d4a8b469.a.10441976-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/2433821/d4a8b469.a.10441976-1/%%",
+        "lyricsAvailable": false,
+        "type": "music",
+        "rememberPosition": false,
+        "trackSharingFlag": "COVER_ONLY",
+        "prefix": ""
+      },
+      {
+        "id": "55010318",
+        "realId": "55010318",
+        "title": "Is",
+        "major": {
+          "id": 131,
+          "name": "TUNECORE"
+        },
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableFullWithoutPermission": false,
+        "durationMs": 311630,
+        "storageDir": "",
+        "fileSize": 0,
+        "normalization": {
+          "gain": -6.21,
+          "peak": 32766
+        },
+        "r128": {
+          "i": -11.53,
+          "tp": 0.56
+        },
+        "previewDurationMs": 30000,
+        "artists": [
+          {
+            "id": 136001,
+            "name": "Buckethead",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-album-cover",
+              "prefix": "00b0c0d7.a.7987277-1",
+              "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+            },
+            "genres": []
+          }
+        ],
+        "albums": [
+          {
+            "id": 7987277,
+            "title": "Decaying Parchment",
+            "metaType": "music",
+            "year": 2017,
+            "releaseDate": "2017-08-11T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%",
+            "ogImage": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%",
+            "genre": "relax",
+            "buy": [],
+            "trackCount": 6,
+            "likesCount": 87,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+              {
+                "id": 136001,
+                "name": "Buckethead",
+                "various": false,
+                "composer": false,
+                "cover": {
+                  "type": "from-album-cover",
+                  "prefix": "00b0c0d7.a.7987277-1",
+                  "uri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%"
+                },
+                "genres": []
+              }
+            ],
+            "labels": [
+              {
+                "id": 1672454,
+                "name": "Hatboxghost"
+              }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [],
+            "trackPosition": {
+              "volume": 1,
+              "index": 1
+            }
+          }
+        ],
+        "coverUri": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/149669/00b0c0d7.a.7987277-1/%%",
+        "lyricsAvailable": false,
+        "type": "music",
+        "rememberPosition": false,
+        "trackSharingFlag": "COVER_ONLY",
+        "prefix": ""
+      }
+    ],
+    "modified": "2021-08-31T04:12:08+00:00",
+    "trackIds": [
+      8265753,
+      730994,
+      12009540,
+      730988,
+      55010400,
+      64832271,
+      55010318
+    ],
+    "ogImage": "avatars.yandex.net/get-music-content/32236/f08982c7.a.862783-1/%%",
+    "tags": [],
+    "likesCount": 0,
+    "duration": 2268860,
+    "collective": false,
+    "prerolls": [],
+    "available": true,
+    "doNotIndex": false
+  }
+}
