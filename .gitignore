@@ -1,5 +1,6 @@
 ### Project ###
 *.csv
+my_env
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
